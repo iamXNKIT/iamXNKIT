@@ -3,7 +3,6 @@
 <img align="right" alt="coding" width=400 src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-max-1mb.gif"/>
 
 
-- 🌱 I’m currently learning **Native Application Development in Kotlin/Java**
 
 - 📫 How to reach me **arprocks1583@gmail.com**
 
