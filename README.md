@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Pande</h1>
 <h3 align="center">I'm currently pursuing MCA at MIT-WPU,Kothrud,Pune,Maharashtra</h3>
-<img align="right" alt="coding" width=400 src="https://i.gifer.com/FUMc.gif"/>
+<img align="right" alt="coding" width=400 src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-max-1mb.gif"/>
 
 
 - 🌱 I’m currently learning **Native Application Development in Kotlin/Java**
